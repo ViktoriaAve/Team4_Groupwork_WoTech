@@ -6,4 +6,5 @@ Nora
 Daria
 
 Viktoria Averjanova
-Sanita
+
+Sanita Krolle
